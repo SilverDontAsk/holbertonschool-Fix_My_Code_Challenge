@@ -1,7 +1,7 @@
 ###
 #
 #  Sort integer arguments (ascending) 
-#  The issue with this code was in the insert(i - 1, i_arg)
+#  The issue with this code was in the insert
 #  Because what this tells is for the code to insert the element
 #  earlier than intended
 #
