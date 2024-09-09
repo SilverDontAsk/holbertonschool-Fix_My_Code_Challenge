@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 """ FizzBuzz
 The issue with this code was in the order the process of
-fizzbuzzing was.
-
+fizzbuzzing.
 Instead of having it be first searching for what to
 fizz, we must first search for what to fizzbuzz
 as if we fizz first it'll lead to issues where
